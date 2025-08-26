@@ -42,8 +42,8 @@ A simple to-do list app built with Flask.
 
 ## Screenshot
 
-![Screenshot of the app](assets/screenshot.png)
+![Screenshot of the app](assets/Screenshot.PNG)
 
-![Screenshot of the app 2](assets/screenshot2.png)
+![Screenshot of the app 2](assets/Screenshot2.PNG)
 
 
